@@ -15,6 +15,7 @@ More detail about the project description to see(https://ift6266h17.wordpress.co
 
 ##Usage
 If you clone the the whole repsitory, just ignore Train step.
+
   Train:
   
     $ python3 train.py -dataset ./data/train2014 --epoch <epoch>
