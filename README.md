@@ -2,7 +2,7 @@
 
 ##INTRODUCTION
 
-This is the repository of project for IFT6266H17.
+This is the repository of IFT6266H17 project.
 
 More detail about the project description to see(https://ift6266h17.wordpress.com/project-description/)
 
