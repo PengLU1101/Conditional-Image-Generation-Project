@@ -6,6 +6,8 @@ This is the repository of IFT6266H17 project.
 
 More detail about the project description to see(https://ift6266h17.wordpress.com/project-description/)
 
+My blog about this project(https://penglublog.wordpress.com/)
+
 ##Prerequisites
 
 - tensorflow 0.1.1
