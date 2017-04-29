@@ -1,9 +1,8 @@
 # Conditional-Image-Generation-Project
-This is the repository of project for IFT6266H17
-The test code for Conditional Generative Adversarial Nets using tensorflow.
 
 ##INTRODUCTION
-Project repository of IFT6266H17.
+
+This is the repository of project for IFT6266H17.
 
 More detail about the project description to see(https://ift6266h17.wordpress.com/project-description/)
 
