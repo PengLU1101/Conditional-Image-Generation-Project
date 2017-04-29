@@ -1,1 +1,2 @@
-# Conditional-Image-Generation-Project-Blog
+# Conditional-Image-Generation-Project
+This is the repository of project for IFT6266H17
