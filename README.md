@@ -18,8 +18,8 @@ If you clone the the whole repository, just ignore Train step.
 
   Train:
   
-    $ python3 train.py -dataset ./data/train2014 --epoch <epoch>
+    $ python3 train-cdcgan.py -dataset ./data/train2014 --epoch <epoch>
   
   Test:
   
-    $ python3 test.py -dataset ./data/val2014/* --outDir testImages
+    $ python3 test-cdcgan.py -dataset ./data/val2014/* --outDir testImages
