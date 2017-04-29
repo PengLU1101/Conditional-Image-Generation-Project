@@ -13,6 +13,7 @@ More detail about the project description to see(https://ift6266h17.wordpress.co
 - python 3.5
 
 ##Usage
+
 If you clone the the whole repsitory, just ignore Train step.
 
   Train:
