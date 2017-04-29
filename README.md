@@ -14,7 +14,7 @@ More detail about the project description to see(https://ift6266h17.wordpress.co
 
 ##Usage
 
-If you clone the the whole repsitory, just ignore Train step.
+If you clone the the whole repository, just ignore Train step.
 
   Train:
   
