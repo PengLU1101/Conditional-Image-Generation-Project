@@ -25,3 +25,10 @@ If you clone the the whole repository, just ignore Train step.
   Test:
   
     $ python3 test-cdcgan.py -dataset ./data/val2014/* --outDir testImages
+
+##Real image sample
+
+![](images/before.jpg)
+
+##Generated image
+
