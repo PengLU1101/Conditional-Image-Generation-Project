@@ -32,3 +32,4 @@ If you clone the the whole repository, just ignore Train step.
 
 ##Generated image
 
+![](images/0950.jpg)
